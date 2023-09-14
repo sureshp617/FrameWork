@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [HybrideFrameWork by packages]">
+  <test parallel="none" name="com.hrms.testscripts(failed)">
+    <classes>
+      <class name="com.hrms.testscripts.TC005Benifts">
+        <methods>
+          <include name="benifts"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC005Benifts -->
+    </classes>
+  </test> <!-- com.hrms.testscripts(failed) -->
+</suite> <!-- Failed suite [HybrideFrameWork by packages] -->
